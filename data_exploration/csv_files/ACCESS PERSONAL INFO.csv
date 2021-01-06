@@ -1,0 +1,10 @@
+,subclass,procname,low_0_method_name,low_0_sysname,low_0_type,low_0_id,low_0_ts,tid,class
+0,LOCATION,com.topteam.flashlight,"android.location.ILocationManager.requestLocationUpdates(request = [LocationRequest N/A], listener = [ILocationListener N/A], intent = [PendingIntent N/A], packageName = d)",ioctl,BINDER,1038,1545638796.614,1163,ACCESS PERSONAL INFO
+1,LOCATION,com.topteam.flashlight,"android.location.ILocationManager.requestLocationUpdates(request = [LocationRequest N/A], listener = [ILocationListener N/A], intent = [PendingIntent N/A], packageName = )",ioctl,BINDER,1042,1545638796.615,1163,ACCESS PERSONAL INFO
+2,PHONE,com.topteam.flashlight,com.android.internal.telephony.ITelephony.getActivePhoneType(),ioctl,BINDER,1047,1545638796.616,1163,ACCESS PERSONAL INFO
+3,LOCATION,com.topteam.flashlight,com.android.internal.telephony.ITelephony.getCellLocation(),ioctl,BINDER,1050,1545638796.617,1163,ACCESS PERSONAL INFO
+4,PHONE,com.topteam.flashlight,com.android.internal.telephony.ITelephony.getActivePhoneType(),ioctl,BINDER,1055,1545638796.620,1163,ACCESS PERSONAL INFO
+5,PHONE,com.topteam.flashlight,com.android.internal.telephony.IPhoneSubInfo.getDeviceId(),ioctl,BINDER,1167,1545638797.704,1163,ACCESS PERSONAL INFO
+6,PHONE,com.topteam.flashlight,com.android.internal.telephony.IPhoneSubInfo.getSubscriberId(),ioctl,BINDER,1170,1545638797.705,1163,ACCESS PERSONAL INFO
+7,LOCATION,com.topteam.flashlight,"android.location.ILocationManager.requestLocationUpdates(request = [LocationRequest N/A], listener = [ILocationListener N/A], intent = [PendingIntent N/A], packageName = d)",ioctl,BINDER,1379,1545638797.710,1163,ACCESS PERSONAL INFO
+8,PHONE,com.topteam.flashlight,com.android.internal.telephony.IPhoneSubInfo.getDeviceId(),ioctl,BINDER,22336,1545638805.525,1163,ACCESS PERSONAL INFO

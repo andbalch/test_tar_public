@@ -1,0 +1,4 @@
+,classType,operationFlags,procname,low_0_sysname,low_0_ts,low_0_id,low_0_blob_type,low_0_blob_filename,low_0_type,low_0_read fd,low_1_sysname,low_1_ts,low_1_write fd,low_1_blob_type,low_1_blob_filename,low_1_type,low_1_id,tid,class
+0,0,2048,zygote,pipe,1545638795.518,327,read/write pipe,anonymous pipe [read],SYSCALL,36,pipe,1545638795.518,37,read/write pipe,anonymous pipe [write],SYSCALL,328,1163,FS PIPE ACCESS
+1,0,2048,com.topteam.flashlight,pipe,1545638799.30,1833,read/write pipe,anonymous pipe [read],SYSCALL,44,pipe,1545638799.30,50,read/write pipe,anonymous pipe [write],SYSCALL,1834,1163,FS PIPE ACCESS
+2,0,2048,com.topteam.flashlight,pipe,1545638805.521,21745,read/write pipe,anonymous pipe [read],SYSCALL,106,pipe,1545638805.521,113,read/write pipe,anonymous pipe [write],SYSCALL,21746,1163,FS PIPE ACCESS
