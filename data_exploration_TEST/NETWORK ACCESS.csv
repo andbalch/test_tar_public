@@ -1,0 +1,11 @@
+,classType,operationFlags,procname,low_0_sysname,low_0_ts,low_0_blob_socket domain,low_0_blob_socket type,low_0_blob_type,low_0_blob_socket protocol,low_0_socket fd,low_0_type,low_0_id,low_1_sysname,low_1_ts,low_1_blob_socket domain,low_1_blob_socket type,low_1_blob_type,low_1_blob_socket protocol,low_1_socket fd,low_1_type,low_1_id,tid,class
+0,1,0,com.topteam.flashlight,socketpair,1545638799.31,1,1,socket pair socket,0,55.0,SYSCALL,1949,socketpair,1545638799.31,1.0,1.0,socket pair socket,0.0,56.0,SYSCALL,1950.0,1163,NETWORK ACCESS
+1,1,0,com.topteam.flashlight,socketpair,1545638799.31,1,1,socket pair socket,0,60.0,SYSCALL,2072,socketpair,1545638799.31,1.0,1.0,socket pair socket,0.0,61.0,SYSCALL,2073.0,1163,NETWORK ACCESS
+2,1,0,com.topteam.flashlight,socketpair,1545638799.34,1,1,socket pair socket,0,65.0,SYSCALL,2156,socketpair,1545638799.34,1.0,1.0,socket pair socket,0.0,66.0,SYSCALL,2157.0,1163,NETWORK ACCESS
+3,1,0,com.topteam.flashlight,socketpair,1545638799.36,1,1,socket pair socket,0,75.0,SYSCALL,2452,socketpair,1545638799.36,1.0,1.0,socket pair socket,0.0,76.0,SYSCALL,2453.0,1163,NETWORK ACCESS
+4,1,0,com.topteam.flashlight,socketpair,1545638799.36,1,1,socket pair socket,0,80.0,SYSCALL,2485,socketpair,1545638799.36,1.0,1.0,socket pair socket,0.0,81.0,SYSCALL,2486.0,1163,NETWORK ACCESS
+5,1,0,com.topteam.flashlight,socketpair,1545638799.38,1,1,socket pair socket,0,83.0,SYSCALL,2723,socketpair,1545638799.38,1.0,1.0,socket pair socket,0.0,84.0,SYSCALL,2724.0,1163,NETWORK ACCESS
+6,1,0,com.topteam.flashlight,socket,1545638799.38,1,1,,0,,SYSCALL,2758,,,,,,,,,,1163,NETWORK ACCESS
+7,1,0,com.topteam.flashlight,socketpair,1545638799.46,1,1,socket pair socket,0,72.0,SYSCALL,3650,socketpair,1545638799.46,1.0,1.0,socket pair socket,0.0,73.0,SYSCALL,3651.0,1163,NETWORK ACCESS
+8,1,0,com.topteam.flashlight,socketpair,1545638799.50,1,1,socket pair socket,0,99.0,SYSCALL,4650,socketpair,1545638799.50,1.0,1.0,socket pair socket,0.0,100.0,SYSCALL,4651.0,1163,NETWORK ACCESS
+9,1,0,com.topteam.flashlight,socketpair,1545638799.51,1,1,socket pair socket,0,104.0,SYSCALL,4703,socketpair,1545638799.51,1.0,1.0,socket pair socket,0.0,105.0,SYSCALL,4704.0,1163,NETWORK ACCESS

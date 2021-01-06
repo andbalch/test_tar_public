@@ -1,0 +1,3 @@
+,classType,operationFlags,procname,low_0_sysname,low_0_blob_filename,low_0_type,low_0_id,low_0_ts,tid,class
+0,0,8,com.topteam.flashlight,unlink,/data/data/com.topteam.flashlight/shared_prefs/dyd_push.xml.bak,SYSCALL,1138,1545638796.624,1163,FS ACCESS()
+1,0,8,com.topteam.flashlight,unlink,/data/data/com.topteam.flashlight/shared_prefs/dydTimePref.xml.bak,SYSCALL,14536,1545638803.414,1163,FS ACCESS()

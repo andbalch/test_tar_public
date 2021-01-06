@@ -1,0 +1,10 @@
+,classType,operationFlags,procname,low_0_sysname,low_0_blob_dirname,low_0_blob_mode,low_0_type,low_0_id,low_0_ts,tid,class
+0,3,4,zygote,mkdir,/acct/uid/10052,1,SYSCALL,209,1545638795.516,1163,CREATE_FOLDER
+1,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/cache,1,SYSCALL,562,1545638796.586,1163,CREATE_FOLDER
+2,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/app_pushimgs,1,SYSCALL,812,1545638796.604,1163,CREATE_FOLDER
+3,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/shared_prefs,1,SYSCALL,1106,1545638796.621,1163,CREATE_FOLDER
+4,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/files,1,SYSCALL,1225,1545638797.705,1163,CREATE_FOLDER
+5,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/app_webview,1,SYSCALL,1726,1545638799.29,1163,CREATE_FOLDER
+6,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/app_webview/Cache,1,SYSCALL,12462,1545638802.346,1163,CREATE_FOLDER
+7,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/app_webview/Cache/index-dir,1,SYSCALL,12653,1545638803.403,1163,CREATE_FOLDER
+8,3,4,com.topteam.flashlight,mkdir,/data/data/com.topteam.flashlight/databases,1,SYSCALL,22181,1545638805.525,1163,CREATE_FOLDER
